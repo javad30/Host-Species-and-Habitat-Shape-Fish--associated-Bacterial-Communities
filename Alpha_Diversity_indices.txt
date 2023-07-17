@@ -1,0 +1,631 @@
+Sample	observed_features	faith_pd	chao1	shannon_entropy	Locations	Locations_Group	Weight_g	Length_mm	sample_type	Fishname	Locationtype_fishtype	location_sampletype	sampletype_speciestype	Preservation
+G1	44	10.40475242	44	4.016337732	Lake_Erie	2	18	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G2	31	4.864909309	31	3.937027667	Lake_Erie	2	19	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G3	134	26.63599445	134	5.322443144	Lake_Erie	2	20	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G4	38	7.10350628	38	2.775166355	Lake_Erie	2	19	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G5	34	4.994005959	34	3.844251831	Lake_Erie	2	19	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G6	58	11.28964327	58	4.325241562	Lake_Erie	2	18	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G7	84	17.43161615	84	4.954449292	Lake_Erie	2	20	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G8	28	5.159518409	28	3.890918572	Lake_Erie	2	19	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G9	24	6.169094835	24	3.323612382	Lake_Erie	2	17	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G10	114	19.51525503	114	5.383543962	Lake_Erie	2	0.2	40	Gut	Round_Goby	Lake_ErieRound_Goby	Lake_ErieGut	GutRound_Goby	Dry_Ice
+G11	40	10.04997152	40	3.030916043	Lake_Erie	2	12	90	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G12	45	9.416282537	45	4.530757943	Lake_Erie	2	6.5	80	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G13	82	16.56866847	82	5.400097254	Lake_Erie	2	6.7	80	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G14	91	17.33348687	91	4.804058833	Lake_Erie	2	16.2	140	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G15	29	6.507918551	29	3.076201172	Lake_Erie	2	15.5	120	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G16	211	28.38416637	211	6.140628678	Lake_Erie	2	11	90	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G17	70	14.68064669	70	4.90454369	Lake_Erie	2	5.7	80	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G18	165	30.0397451	165	5.594167137	Lake_Erie	2	6.4	80	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G19	39	10.69977244	39	4.225343039	Lake_Erie	2	15	120	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G20	65	14.28357148	65	4.626667024	Lake_Erie	2	6.32	80	Gut	Round_Goby	Lake_ErieRound_Goby	Lake_ErieGut	GutRound_Goby	Dry_Ice
+G21	103	19.11922688	103	5.198149547	Lake_Erie	2	0.15	35	Gut	Round_Goby	Lake_ErieRound_Goby	Lake_ErieGut	GutRound_Goby	Dry_Ice
+G22	109	19.41889819	109	5.786994028	Lake_Erie	2	26.3	130	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G23	66	10.3087021	66	4.54466612	Lake_Erie	2	22	120	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G24	122	19.70958702	122	5.361459461	Lake_Erie	2	21.6	130	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G25	122	20.93470682	122	5.897981162	Lake_Erie	2	16.5	120	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G26	52	11.74926521	52	4.354635947	Lake_Erie	2	29	160	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G27	55	13.16851665	55	4.658881597	Lake_Erie	2	7.6	100	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G28	178	28.82423764	178	3.897103726	Lake_Erie	2	12.2	120	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G29	47	12.74653153	47	2.602008574	Lake_Erie	2	19	140	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G30	44	11.40188372	44	4.353171292	Lake_Erie	2	8	120	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G31	28	6.314969221	28	3.954706219	Lake_Erie	2	3.3	80	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G32	82	18.71689145	82	5.058824149	Lake_Erie	2	13.2	90	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G33	47	11.97834493	47	4.266510782	Lake_Erie	2	10	70	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G34	91	18.53966689	91	5.090460472	Lake_Erie	2	15	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G35	70	14.71995734	70	4.969722361	Lake_Erie	2	11	75	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G36	121	21.47959037	121	5.786285885	Lake_Erie	2	15.2	99	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G37	44	9.179186756	44	4.71526626	Lake_Erie	2	15.1	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G38	80	16.03783676	80	4.475104321	Lake_Erie	2	14	90	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G39	139	24.90497904	139	5.614122577	Lake_Erie	2	12	80	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G40	69	16.49205817	69	4.606470276	Lake_Erie	2	29	130	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G41	101	18.71255039	101	5.388228791	Lake_Erie	2	12	80	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G42	18	5.231517807	18	2.817589127	Lake_Erie	2	13.5	90	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G43	33	8.640744176	33	3.942503816	Lake_Erie	2	125	250	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G44	53	12.64463807	53	3.477252519	Lake_Erie	2	50	170	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G45	57	14.08392258	57	4.21775254	Lake_Erie	2	0.2	34	Gut	Round_Goby	Lake_ErieRound_Goby	Lake_ErieGut	GutRound_Goby	Dry_Ice
+G46	23	5.848634309	23	2.894938082	Lake_Erie	2	0.3	45	Gut	Round_Goby	Lake_ErieRound_Goby	Lake_ErieGut	GutRound_Goby	Dry_Ice
+G47	89	18.76377446	89	4.907131102	Lake_Erie	2	0.15	35	Gut	Round_Goby	Lake_ErieRound_Goby	Lake_ErieGut	GutRound_Goby	Dry_Ice
+G48	34	8.274752252	34	3.869269454	Lake_Erie	2	0.13	30	Gut	Round_Goby	Lake_ErieRound_Goby	Lake_ErieGut	GutRound_Goby	Dry_Ice
+G49	125	22.66601312	125	5.510676887	Lake_Erie	2	0.15	33	Gut	Round_Goby	Lake_ErieRound_Goby	Lake_ErieGut	GutRound_Goby	Dry_Ice
+G50	128	26.37973584	128	4.460945916	Lake_Erie	2	13	100	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G51	101	20.96381241	101	5.15208348	Lake_Erie	2	11.5	90	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G52	74	17.6071184	74	4.330059224	Lake_Erie	2	7	80	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G53	94	20.347742	94	5.413504106	Lake_Erie	2	10	85	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G54	81	19.75279043	81	4.265179812	Lake_Erie	2	6	70	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G55	116	22.35667769	116	5.246637113	Lake_Erie	2	5.5	70	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G56	81	17.46218931	81	4.830864352	Lake_Erie	2	5.6	70	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G57	110	21.95994225	110	5.210843735	Lake_Erie	2	6.2	70	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G58	41	8.333634837	41	3.475105332	Lake_Erie	2	16.2	110	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G59	41	9.493367909	41	2.728365712	Lake_Erie	2	15.5	110	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G60	78	15.93069999	78	4.065361227	Lake_Erie	2	16	100	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G61	52	9.668500357	52	4.961313026	Lake_Erie	2	7000	1320	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G62	248	38.76395817	248	5.373491046	Lake_Erie	2	209	250	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G63	51	12.21340776	51	3.203614411	Lake_Erie	2	544	350	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G64	84	18.64656085	84	4.362790579	Lake_Erie	2	100	200	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G65	203	35.71353856	203	6.446532523	Lake_Erie	2	24	125	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G66	179	30.98257409	179	6.120433168	Lake_Erie	2	22.5	125	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G67	131	24.81485275	131	6.065464931	Lake_Erie	2	24.5	125	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G68	261	38.77030057	261	6.771744909	Lake_Erie	2	26	130	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G69	207	33.45627829	207	6.6317388	Lake_Erie	2	22.6	120	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G70	184	30.70636957	184	4.890140283	Lake_Erie	2	16.5	120	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G71	256	37.71748614	256	6.55242389	Lake_Erie	2	27	130	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G72	173	31.53602449	173	5.556664945	Lake_Erie	2	25	130	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G73	169	28.51572733	169	6.323965216	Lake_Erie	2	35	150	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G74	61	13.66158762	61	3.777963141	Lake_Erie	2	22	100	Gut	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieGut	GutFreshwater_Drum	Dry_Ice
+G75	159	26.71957532	159	5.656585832	Lake_Erie	2	15	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G76	72	18.13918922	72	5.057652226	Lake_Erie	2	15.2	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G77	95	19.58208697	95	5.416256766	Lake_Erie	2	15.5	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G78	93	19.12152135	93	5.014129924	Lake_Erie	2	14.9	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G79	84	17.07286032	84	5.106196535	Lake_Erie	2	15.3	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G80	26	8.750570579	26	3.511129171	Lake_Erie	2	15.1	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G81	24	7.719076147	24	2.720669605	Lake_Erie	2	14.4	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G82	124	22.12885982	124	4.796353572	Lake_Erie	2	15.6	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G83	118	21.70367831	118	5.810145296	Lake_Erie	2	15	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G84	70	13.23416941	70	4.963095915	Lake_Erie	2	15.2	100	Gut	White_Perch	Lake_ErieWhite_Perch	Lake_ErieGut	GutWhite_Perch	Dry_Ice
+G86	89	21.12224864	89	5.013425145	Lake_Erie	2	11	90	Gut	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieGut	GutYellow_Perch	Dry_Ice
+G87	132	24.39175195	132	5.18777472	Lake_Erie	2	15	110	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G88	201	32.12048699	201	4.947762809	Lake_Erie	2	16.2	110	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G89	79	16.10371654	79	4.89225093	Lake_Erie	2	14	110	Gut	White_Bass	Lake_ErieWhite_Bass	Lake_ErieGut	GutWhite_Bass	Dry_Ice
+G90	102	19.30353793	102	4.7809463	Lake_Erie	2	20	150	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G91	22	4.085832295	22	3.858339611	Lake_Erie	2	20	150	Gut	Walleye	Lake_ErieWalleye	Lake_ErieGut	GutWalleye	Dry_Ice
+G97	50	11.31980409	50	5.155965793	Lake_Ontario	3	37.3	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G98	58	8.082089821	58	4.535868696	Lake_Ontario	3	2671.82	NA	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G99	121	20.62014447	121	5.449471324	Lake_Ontario	3	138.93	190	Gut	Rock_Bass	Lake_OntarioRock_Bass	Lake_OntarioGut	GutRock_Bass	RNA_Later
+G100	65	8.784125521	65	4.325224701	Lake_Ontario	3	249.95	216	Gut	Rock_Bass	Lake_OntarioRock_Bass	Lake_OntarioGut	GutRock_Bass	RNA_Later
+G102	65	13.54751425	65	3.889304269	Lake_Ontario	3	5493.44	785	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G103	97	11.49456361	97	5.325493524	Lake_Ontario	3	4455.76	658	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G104	74	10.72093994	74	3.734047911	Lake_Ontario	3	2730.25	642	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G107	73	10.31037758	73	5.333014364	Lake_Ontario	3	2084.99	NA	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G108	52	10.35316548	52	4.378614653	Lake_Ontario	3	54.33	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G109	69	16.6103819	69	4.922002736	Lake_Ontario	3	3448.13	665	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G110	49	10.94732792	49	4.510104903	Lake_Ontario	3	181.69	203	Gut	Rock_Bass	Lake_OntarioRock_Bass	Lake_OntarioGut	GutRock_Bass	RNA_Later
+G111	70	15.20587575	70	4.315630024	Lake_Ontario	3	95.44	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G112	125	20.91511398	125	5.577162741	Lake_Ontario	3	37.38	140	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G113	103	14.86342562	103	4.836718148	Lake_Ontario	3	2210.65	536	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G114	35	6.143934503	35	2.810575575	Lake_Ontario	3	5285.86	756	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G115	104	17.19392032	104	4.204033719	Lake_Ontario	3	2271.21	NA	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G117	75	11.99739285	75	4.539571122	Lake_Ontario	3	2602.86	617	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G119	85	17.37750497	85	5.202804261	Lake_Ontario	3	35.58	135	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G120	63	10.52501855	63	4.327540906	Lake_Ontario	3	35.5	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G121	216	33.61248846	216	5.597150596	Lake_Ontario	3	1132.3	497	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G122	236	30.15949946	236	5.743210004	Lake_Ontario	3	337.57	NA	Gut	White_Sucker	Lake_OntarioWhite_Sucker	Lake_OntarioGut	GutWhite_Sucker	RNA_Later
+G123	95	13.27534001	95	5.56609257	Lake_Ontario	3	1470.23	424	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G124	166	28.574005	166	5.062013302	Lake_Ontario	3	2419.53	NA	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G125	40	12.13697428	40	2.616591473	Lake_Ontario	3	40	152	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G126	48	7.740120135	48	2.948275777	Lake_Ontario	3	2263.25	612	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G127	51	11.62131056	51	4.535713005	Lake_Ontario	3	3429.9	677	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G128	49	6.946467134	49	4.597016237	Lake_Ontario	3	41	153	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G129	103	20.21772931	103	4.905333783	Lake_Ontario	3	45	160	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G130	292	46.52394137	292	4.813967463	Lake_Ontario	3	33.22	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G131	67	7.546845548	67	3.164808956	Lake_Ontario	3	36	150	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G132	32	6.282913339	32	3.351602386	Lake_Ontario	3	26	140	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G133	48	6.126262148	48	4.563826169	Lake_Ontario	3	146.6	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G134	30	6.070067845	30	3.583808773	Lake_Ontario	3	30	130	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G135	71	15.45161764	71	2.581089844	Lake_Ontario	3	33.94	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G137	124	19.33826802	124	5.97462352	Lake_Ontario	3	27	125	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G138	65	8.732039275	65	4.249632288	Lake_Ontario	3	32.62	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G139	117	16.84295489	117	3.935758999	Lake_Ontario	3	32.76	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G140	91	14.89749061	91	4.23794532	Lake_Ontario	3	5582.8	770	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G142	16	5.65622016	16	1.800891106	Lake_Ontario	3	32	135	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G144	84	18.41642	84	4.984674972	Lake_Ontario	3	34.55	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G145	207	26.32936909	207	5.795390901	Lake_Ontario	3	41.44	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G146	131	19.78022519	131	4.273953928	Lake_Ontario	3	29	130	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G147	178	27.96070965	178	6.073368107	Lake_Ontario	3	3386.75	673	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G148	269	40.94665942	269	6.629805538	Lake_Ontario	3	20.57	NA	Gut	Gizzard_Shad	Lake_OntarioGizzard_Shad	Lake_OntarioGut	GutGizzard_Shad	RNA_Later
+G149	48	10.38034764	48	4.749932564	Lake_Ontario	3	355.62	320	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G150	46	13.0914875	46	4.478268395	Lake_Ontario	3	53.24	NA	Gut	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioGut	GutPumpkinseed	RNA_Later
+G151	43	11.16330237	43	4.612559596	Lake_Ontario	3	64.24	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G152	195	30.90237516	195	4.651709661	Lake_Ontario	3	992.63	NA	Gut	Gizzard_Shad	Lake_OntarioGizzard_Shad	Lake_OntarioGut	GutGizzard_Shad	RNA_Later
+G153	82	8.960577096	82	3.41336369	Lake_Ontario	3	30.63	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G154	71	8.952306078	71	3.857664099	Lake_Ontario	3	56.28	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G155	51	7.921600809	51	4.249406504	Lake_Ontario	3	72.59	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G156	125	18.94492198	125	5.322112099	Lake_Ontario	3	31.18	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G157	72	15.59562299	72	4.632121135	Lake_Ontario	3	58.55	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G158	48	10.01012597	48	3.964146723	Lake_Ontario	3	35.39	NA	Gut	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioGut	GutPumpkinseed	RNA_Later
+G159	56	9.037336695	56	2.354336921	Lake_Ontario	3	31.07	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G160	100	13.77326829	100	4.548948316	Lake_Ontario	3	150.58	NA	Gut	Walleye	Lake_OntarioWalleye	Lake_OntarioGut	GutWalleye	RNA_Later
+G161	136	21.53975369	136	5.012722251	Lake_Ontario	3	33.14	NA	Gut	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioGut	GutPumpkinseed	RNA_Later
+G162	98	12.72512802	98	4.165393653	Lake_Ontario	3	31.31	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G163	58	6.55180311	58	3.895426376	Lake_Ontario	3	31.31	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G164	123	18.84886678	123	5.87993443	Lake_Ontario	3	179.61	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G165	90	17.65447308	90	5.377293957	Lake_Ontario	3	35.05	NA	Gut	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioGut	GutPumpkinseed	RNA_Later
+G166	87	12.97560762	87	5.082069126	Lake_Ontario	3	35.29	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G167	257	36.15653805	257	6.778558612	Lake_Ontario	3	340.82	NA	Gut	Walleye	Lake_OntarioWalleye	Lake_OntarioGut	GutWalleye	RNA_Later
+G168	124	14.79060113	124	5.416530855	Lake_Ontario	3	59.75	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G169	108	13.84439404	108	4.759739101	Lake_Ontario	3	75.75	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G170	87	10.94469025	87	4.447262859	Lake_Ontario	3	NA	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G172	54	8.278092892	54	4.505418948	Lake_Ontario	3	185.86	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G173	96	12.48658765	96	3.930910371	Lake_Ontario	3	154.32	241	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G174	53	5.887391171	53	4.512268446	Lake_Ontario	3	578.84	411	Gut	Walleye	Lake_OntarioWalleye	Lake_OntarioGut	GutWalleye	RNA_Later
+G175	131	20.41337158	131	3.962165511	Lake_Ontario	3	121.43	224	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G176	99	13.61871944	99	4.545295884	Lake_Ontario	3	153.7	242	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G177	110	11.96399305	110	4.75913277	Lake_Ontario	3	135.66	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G178	74	10.18193339	74	4.453405008	Lake_Ontario	3	NA	NA	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G179	61	11.20503729	61	5.010782032	Lake_Ontario	3	89.32	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G180	77	10.93187467	77	4.837312079	Lake_Ontario	3	120.98	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G181	150	24.50640265	150	5.815558127	Lake_Ontario	3	50.14	NA	Gut	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioGut	GutPumpkinseed	RNA_Later
+G182	98	17.94590127	98	5.146714136	Lake_Ontario	3	64.76	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G183	110	15.90111819	110	5.812069474	Lake_Ontario	3	66.41	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G184	197	25.37669673	197	6.746090483	Lake_Ontario	3	71.42	NA	Gut	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioGut	GutWhite_Bass	RNA_Later
+G185	32	6.769765345	32	2.363052609	Lake_Ontario	3	NA	NA	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G194	62	9.438734407	62	4.94213222	Lake_Ontario	3	1437.55	457	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G195	56	12.66458839	56	3.729398118	Lake_Ontario	3	2807.94	NA	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G196	87	16.77991175	87	4.348053939	Lake_Ontario	3	36.07	137	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G197	36	5.167987446	36	3.811864087	Lake_Ontario	3	1308.25	489	Gut	Walleye	Lake_OntarioWalleye	Lake_OntarioGut	GutWalleye	RNA_Later
+G198	43	7.664286594	43	4.169074982	Lake_Ontario	3	2335.69	588	Gut	Walleye	Lake_OntarioWalleye	Lake_OntarioGut	GutWalleye	RNA_Later
+G199	30	6.961514218	30	3.988614085	Lake_Ontario	3	NA	NA	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G200	58	9.073574192	58	4.560831441	Lake_Ontario	3	2686.56	537	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G201	66	12.4729384	66	3.425354043	Lake_Ontario	3	6070.08	845	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G202	28	6.206247606	28	3.244664582	Lake_Ontario	3	3444.35	663	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G203	66	8.635918061	66	4.630027944	Lake_Ontario	3	3550.77	675	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G204	94	18.13914928	94	5.317561365	Lake_Ontario	3	97.61	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G205	45	10.47515017	45	4.429908871	Lake_Ontario	3	1707.33	491	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G207	61	6.816286391	61	4.832106631	Lake_Ontario	3	2613.71	NA	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G208	35	6.54820824	35	3.0465028	Lake_Ontario	3	4963.61	752	Gut	Walleye	Lake_OntarioWalleye	Lake_OntarioGut	GutWalleye	RNA_Later
+G209	31	6.275077362	31	2.860035015	Lake_Ontario	3	1732.75	551	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G210	55	9.383446813	55	3.573462575	Lake_Ontario	3	6430.43	836	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G211	43	7.796035581	43	3.922187147	Lake_Ontario	3	2768.91	NA	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G213	65	9.524136108	65	4.581660314	Lake_Ontario	3	2811.34	NA	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G214	17	4.492675983	17	2.934936454	Lake_Ontario	3	2278.18	558	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G215	34	5.081743766	34	4.091434032	Lake_Ontario	3	2602.86	617	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G216	99	16.25849621	99	5.323294551	Lake_Ontario	3	1481.82	460	Gut	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioGut	GutBrown_Trout	RNA_Later
+G217	86	18.47726496	86	3.752648293	Lake_Ontario	3	92.58	NA	Gut	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioGut	GutYellow_Perch	RNA_Later
+G218	80	13.97925411	80	5.089964915	Lake_Ontario	3	150.6	238	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G219	56	9.797419732	56	4.131366367	Lake_Ontario	3	167.28	250	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G220	25	6.365508675	25	3.189195538	Lake_Ontario	3	119.42	225	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G221	108	15.22316968	108	4.147817122	Lake_Ontario	3	183.59	262	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G222	72	7.487677274	72	4.913315658	Lake_Ontario	3	708.1	407	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G223	115	16.1159524	115	4.186922828	Lake_Ontario	3	337.57	NA	Gut	White_Sucker	Lake_OntarioWhite_Sucker	Lake_OntarioGut	GutWhite_Sucker	RNA_Later
+G224	68	6.479059856	68	4.175348578	Lake_Ontario	3	64.02	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G225	190	26.6852367	190	3.514089621	Lake_Ontario	3	77.41	NA	Gut	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioGut	GutWhite_Perch	RNA_Later
+G226	122	21.59076093	122	5.727091374	Lake_Ontario	3	139.44	230	Gut	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioGut	GutFreshwater_Drum	RNA_Later
+G227	142	23.2965602	142	5.623924471	Lake_Ontario	3	39	154	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G228	43	11.75216749	43	3.220178898	Lake_Ontario	3	33	150	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G229	42	6.739603192	42	3.571690457	Lake_Ontario	3	34	148	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G230	61	12.34339996	61	2.760218914	Lake_Ontario	3	5635.09	768	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G231	27	5.255315033	27	3.364296807	Lake_Ontario	3	42.61	145	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G232	76	15.80288141	76	5.463230176	Lake_Ontario	3	2928.81	641	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G234	103	22.23033707	103	5.433349282	Lake_Ontario	3	2158.52	584	Gut	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioGut	GutLake_Trout	RNA_Later
+G235	185	32.3864855	185	5.720890715	Lake_Ontario	3	45.41	147	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G236	15	5.757066955	15	1.405513058	Lake_Ontario	3	26	130	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G237	44	7.181389221	44	3.714983241	Lake_Ontario	3	45.39	146	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G238	108	18.41091497	108	5.676640054	Lake_Ontario	3	16.5	110	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G240	57	6.742831789	57	4.895946262	Lake_Ontario	3	40	152	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G241	33	6.074579971	33	3.77462719	Lake_Ontario	3	41.89	146	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G242	67	10.89347636	67	4.911803171	Lake_Ontario	3	30	145	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G243	149	22.93407611	149	5.851609865	Lake_Ontario	3	39.29	143	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G244	64	13.89225195	64	5.095497971	Lake_Ontario	3	44.14	148	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G245	86	16.82015115	86	5.17459192	Lake_Ontario	3	46.92	149	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G246	65	13.88268033	65	5.128075516	Lake_Ontario	3	29	155	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G247	39	6.918358591	39	4.263093685	Lake_Ontario	3	33	153	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G248	286	42.65690699	286	5.868870063	Lake_Ontario	3	39.54	137	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G249	42	7.708117222	42	3.919348888	Lake_Ontario	3	38.39	140	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G250	119	23.08122846	119	5.66618377	Lake_Ontario	3	42.16	147	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G251	57	11.12614453	57	4.779736558	Lake_Ontario	3	16.5	110	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G252	88	19.66052158	88	4.645271288	Lake_Ontario	3	37	136	Gut	Alewife	Lake_OntarioAlewife	Lake_OntarioGut	GutAlewife	RNA_Later
+G254	121	22.6093177	121	5.358008675	Lake_Ontario	3	36.36	142	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G255	108	21.23982824	108	4.426169116	Lake_Ontario	3	47.26	146	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G256	164	26.19592658	164	4.584239438	Lake_Ontario	3	41.89	146	Gut	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioGut	GutRound_Goby	RNA_Later
+G258	320	56.68116681	320	6.48503424	Lake_Ontario	3	NA	NA	water	Water_sample	Lake_OntarioWater_sample	Lake_Ontariowater	waterWater_sample	RNA_Later
+G259	266	46.88934078	266	6.775513729	Detroit_River	1	NA	NA	water	Water_sample	Detroit_RiverWater_sample	Detroit_Riverwater	waterWater_sample	Dry_Ice
+G260	237	43.74758151	237	6.408300852	Lake_Ontario	3	NA	NA	water	Water_sample	Lake_OntarioWater_sample	Lake_Ontariowater	waterWater_sample	RNA_Later
+G261	318	50.37876618	318	6.940009346	Detroit_River	1	NA	NA	water	Water_sample	Detroit_RiverWater_sample	Detroit_Riverwater	waterWater_sample	Dry_Ice
+G262	208	41.07830566	208	6.369887065	Lake_Erie	2	NA	NA	water	Water_sample	Lake_ErieWater_sample	Lake_Eriewater	waterWater_sample	Dry_Ice
+G263	412	62.79672828	412	7.319843596	Lake_Ontario	3	NA	NA	water	Water_sample	Lake_OntarioWater_sample	Lake_Ontariowater	waterWater_sample	RNA_Later
+G264	301	48.76539889	301	7.045515047	Detroit_River	1	NA	NA	water	Water_sample	Detroit_RiverWater_sample	Detroit_Riverwater	waterWater_sample	Dry_Ice
+G265	448	69.48064537	448	7.274916317	Lake_Erie	2	NA	NA	water	Water_sample	Lake_ErieWater_sample	Lake_Eriewater	waterWater_sample	Dry_Ice
+G266	96	22.51012951	96	5.670296326	Lake_Ontario	3	NA	NA	water	Water_sample	Lake_OntarioWater_sample	Lake_Ontariowater	waterWater_sample	RNA_Later
+G267	490	75.91304656	490	7.500115239	Lake_Ontario	3	NA	NA	water	Water_sample	Lake_OntarioWater_sample	Lake_Ontariowater	waterWater_sample	RNA_Later
+G289	51	5.704732378	51	4.193776899	Detroit_River	1	6.5	85	Gut	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverGut	GutGizzard_shad	Dry_Ice
+G290	246	34.69728471	246	6.252529798	Detroit_River	1	4.7	75	Gut	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverGut	GutGizzard_shad	Dry_Ice
+G291	225	34.30984303	225	6.277992839	Detroit_River	1	8.1	100	Gut	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverGut	GutGizzard_shad	Dry_Ice
+G292	139	24.26454278	139	3.22732877	Detroit_River	1	4.2	80	Gut	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverGut	GutGizzard_shad	Dry_Ice
+G293	23	5.248238855	23	3.257221518	Detroit_River	1	8.1	105	Gut	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverGut	GutGizzard_shad	Dry_Ice
+G294	284	40.21824488	284	6.895999041	Detroit_River	1	11.2	100	Gut	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverGut	GutGizzard_shad	Dry_Ice
+G295	223	35.55530928	223	5.742960159	Detroit_River	1	4.9	80	Gut	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverGut	GutGizzard_shad	Dry_Ice
+G296	360	41.65450642	360	7.278069199	Detroit_River	1	23	110	Gut	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverGut	GutGizzard_shad	Dry_Ice
+G297	115	21.52168336	115	5.567759313	Detroit_River	1	16	100	Gut	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverGut	GutGizzard_shad	Dry_Ice
+G298	48	11.68746056	48	4.524312811	Detroit_River	1	20.8	130	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G299	253	36.31428645	253	6.396544681	Detroit_River	1	18.8	120	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G300	167	29.02383463	167	5.98117023	Detroit_River	1	9.6	100	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G301	263	40.72168987	263	6.409653331	Detroit_River	1	17	120	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G302	266	39.09760996	266	5.752706922	Detroit_River	1	14	89	Gut	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverGut	GutWhite_Sucker	Dry_Ice
+G303	79	14.94475566	79	5.068358704	Detroit_River	1	6.4	80	Gut	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverGut	GutWhite_Sucker	Dry_Ice
+G304	137	23.1808939	137	4.308406633	Detroit_River	1	2.4	50	Gut	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverGut	GutRock_Bass	Dry_Ice
+G305	251	36.93529901	251	6.544771029	Detroit_River	1	2	60	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G306	176	28.24567889	176	6.098758545	Detroit_River	1	3.2	65	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G307	109	21.92094786	109	5.02034546	Detroit_River	1	3.1	65	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G308	79	17.55638917	79	4.654025184	Detroit_River	1	3.5	70	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G309	99	19.32599833	99	5.139872833	Detroit_River	1	2.5	65	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G310	113	21.20636124	113	4.648934471	Detroit_River	1	3	70	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G311	269	37.3746881	269	6.172297423	Detroit_River	1	2.5	65	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G312	34	9.533539823	34	3.493218874	Detroit_River	1	3.5	75	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G313	249	34.59163154	249	6.058617739	Detroit_River	1	2.5	65	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G314	66	14.53720992	66	4.030314272	Detroit_River	1	2.5	65	Gut	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverGut	GutYellow_perch	Dry_Ice
+G315	176	25.09381589	176	5.322275984	Detroit_River	1	241	300	Gut	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverGut	GutWhite_Sucker	Dry_Ice
+G317	234	35.44589317	234	5.51350938	Detroit_River	1	90	180	Gut	Freshwater_drum	Detroit_RiverFreshwater_drum	Detroit_RiverGut	GutFreshwater_drum	Dry_Ice
+G318	99	19.69939899	99	4.048040935	Detroit_River	1	13.4	90	Gut	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverGut	GutPumpkinseed	Dry_Ice
+G319	47	11.56553033	47	3.72572103	Detroit_River	1	1	50	Gut	Emerald	Detroit_RiverEmerald	Detroit_RiverGut	GutEmerald	Dry_Ice
+G320	254	38.71882502	254	5.789852095	Detroit_River	1	1	50	Gut	Emerald	Detroit_RiverEmerald	Detroit_RiverGut	GutEmerald	Dry_Ice
+G321	125	26.1869612	125	4.956900023	Detroit_River	1	1	60	Gut	Emerald	Detroit_RiverEmerald	Detroit_RiverGut	GutEmerald	Dry_Ice
+G322	283	35.40274287	283	5.980142908	Detroit_River	1	1	60	Gut	Emerald	Detroit_RiverEmerald	Detroit_RiverGut	GutEmerald	Dry_Ice
+G323	70	14.22870936	70	4.791615846	Detroit_River	1	1.2	70	Gut	Emerald	Detroit_RiverEmerald	Detroit_RiverGut	GutEmerald	Dry_Ice
+G324	56	12.00851556	56	4.479016772	Detroit_River	1	1.1	65	Gut	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverGut	GutBrook_silverside_fish	Dry_Ice
+G325	61	15.17502418	61	4.238857914	Detroit_River	1	1.1	65	Gut	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverGut	GutBrook_silverside_fish	Dry_Ice
+G326	83	19.38774886	83	4.230751863	Detroit_River	1	1	65	Gut	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverGut	GutBrook_silverside_fish	Dry_Ice
+G327	81	16.85854763	81	4.502096506	Detroit_River	1	1	65	Gut	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverGut	GutBrook_silverside_fish	Dry_Ice
+G328	44	10.46526425	44	3.7651476	Detroit_River	1	1	65	Gut	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverGut	GutBrook_silverside_fish	Dry_Ice
+G329	96	17.78620309	96	4.357124515	Detroit_River	1	1.2	65	Gut	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverGut	GutBrook_silverside_fish	Dry_Ice
+G330	104	16.71312265	104	4.292347755	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G331	164	25.78640862	164	5.6207736	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G332	19	4.284288847	19	3.19203043	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G333	179	27.09229295	179	5.154241065	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G334	140	22.06451921	140	5.115998373	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G335	59	9.644114117	59	4.108809924	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G336	130	22.26421579	130	5.085683627	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G337	83	17.79728389	83	4.706918318	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G338	56	12.64860893	56	4.065686431	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G339	207	30.67218472	207	5.952522136	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G340	133	26.01964516	133	5.367537172	Detroit_River	1	46	130	Gut	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverGut	GutPumpkinseed	Dry_Ice
+G342	148	24.74842337	148	5.821756555	Detroit_River	1	34.6	150	Gut	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverGut	GutWhite_Sucker	Dry_Ice
+G343	89	18.04186413	89	4.984965515	Detroit_River	1	7	90	Gut	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverGut	GutWhite_Sucker	Dry_Ice
+G345	84	15.06624887	84	3.51905618	Detroit_River	1	46	130	Gut	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverGut	GutPumpkinseed	Dry_Ice
+G346	38	7.681739463	38	3.825172244	Detroit_River	1	88	150	Gut	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverGut	GutPumpkinseed	Dry_Ice
+G347	106	19.46773785	106	4.704187412	Detroit_River	1	12.9	90	Gut	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverGut	GutPumpkinseed	Dry_Ice
+G348	47	8.710747779	47	2.265811493	Detroit_River	1	95.3	170	Gut	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverGut	GutRock_Bass	Dry_Ice
+G349	111	18.74373198	111	4.368008698	Detroit_River	1	11.8	80	Gut	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverGut	GutRock_Bass	Dry_Ice
+G350	31	9.933098858	31	3.809630321	Detroit_River	1	23	130	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G351	49	10.87562087	49	4.160979803	Detroit_River	1	27.5	130	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G353	83	20.19523861	83	4.871872015	Detroit_River	1	1	50	Gut	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverGut	GutBlacknose_shiner	Dry_Ice
+G354	70	15.54257993	70	4.465607122	Detroit_River	1	0.9	60	Gut	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverGut	GutBrook_silverside_fish	Dry_Ice
+G355	387	49.25983177	387	7.370702346	Detroit_River	1	4.7	80	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G356	344	49.11392911	344	7.000294246	Detroit_River	1	4.3	80	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G357	134	25.57261842	134	5.085909026	Detroit_River	1	5.4	90	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G358	81	17.76320237	81	4.452468363	Detroit_River	1	4.5	80	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G359	81	15.56836382	81	4.55971107	Detroit_River	1	3.1	60	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+G360	533	79.91065646	533	7.562131652	Detroit_River	1	4	75	Gut	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverGut	GutSpotfin_shiner	Dry_Ice
+S1	152	30.69502379	152	4.90240449	Detroit_River	1			Skin	Freshwater_drum	Detroit_RiverFreshwater_drum	Detroit_RiverSkin	SkinFreshwater_drum	Dry_Ice
+S2	55	13.06557036	55	4.861616236	Detroit_River	1			Skin	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverSkin	SkinWhite_Sucker	Dry_Ice
+S3	199	43.53199952	199	5.310179559	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S4	280	41.76895266	280	5.538718113	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S5	116	24.83604686	116	4.690958751	Detroit_River	1			Skin	Freshwater_drum	Detroit_RiverFreshwater_drum	Detroit_RiverSkin	SkinFreshwater_drum	Dry_Ice
+S6	90	21.62976235	90	4.823458993	Detroit_River	1			Skin	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverSkin	SkinWhite_Sucker	Dry_Ice
+S8	207	41.54565254	207	5.683509306	Detroit_River	1			Skin	Freshwater_drum	Detroit_RiverFreshwater_drum	Detroit_RiverSkin	SkinFreshwater_drum	Dry_Ice
+S10	52	14.86102128	52	4.50260606	Detroit_River	1			Skin	Freshwater_drum	Detroit_RiverFreshwater_drum	Detroit_RiverSkin	SkinFreshwater_drum	Dry_Ice
+S12	485	76.04426299	485	7.584148261	Detroit_River	1			Skin	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverSkin	SkinWhite_Sucker	Dry_Ice
+S13	267	47.78903916	267	5.72328343	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S15	181	35.69219676	181	4.71481626	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S17	101	22.97278254	101	4.607592877	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S25	247	41.29794643	247	5.554937391	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S28	110	24.70075682	110	4.351707619	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S31	50	13.47037934	50	4.182146128	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S35	97	23.81138939	97	4.946915732	Detroit_River	1			Skin	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverSkin	SkinRock_Bass	Dry_Ice
+S36	164	35.30900499	164	5.22616395	Detroit_River	1			Skin	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverSkin	SkinRock_Bass	Dry_Ice
+S37	437	67.23864218	437	7.160149908	Detroit_River	1			Skin	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverSkin	SkinRock_Bass	Dry_Ice
+S38	239	41.43333255	239	6.003105987	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S39	50	11.49511472	50	3.786563899	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S40	151	26.99129737	151	4.577510618	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S41	70	14.27725696	70	3.734990373	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S42	78	15.22340763	78	3.983331529	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S48	191	33.34774188	191	6.076644788	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S50	54	12.75030646	54	4.485579499	Detroit_River	1			Skin	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverSkin	SkinWhite_Sucker	Dry_Ice
+S54	51	13.56239299	51	4.373243208	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S58	115	22.69939708	115	5.1149284	Detroit_River	1			Skin	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverSkin	SkinWhite_Sucker	Dry_Ice
+S62	196	25.30293401	196	6.447109296	Detroit_River	1			Skin	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverSkin	SkinRock_Bass	Dry_Ice
+S63	135	26.72645618	135	4.723704312	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S64	46	11.51487205	46	3.742247512	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S65	67	13.76671608	67	5.103674609	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S66	149	25.84611472	149	6.187310337	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S67	87	20.00031225	87	5.372062462	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S68	86	17.49647759	86	5.55237817	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S69	153	24.90632326	153	5.649762045	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S70	60	6.676463281	60	4.549768788	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S71	94	10.7427807	94	4.575546769	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S72	94	19.37639959	94	4.301813407	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S73	99	20.54890104	99	5.69817233	Detroit_River	1			Skin	Gizzard_shad	Detroit_RiverGizzard_shad	Detroit_RiverSkin	SkinGizzard_shad	Dry_Ice
+S74	78	13.56192099	78	4.341991596	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S75	83	15.81686421	83	4.407303133	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S76	78	9.041922533	78	4.390958675	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S77	66	9.376670251	66	4.943815694	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S78	91	13.86989813	91	4.803619404	Detroit_River	1			Skin	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverSkin	SkinWhite_Sucker	Dry_Ice
+S79	63	7.675352696	63	4.029319749	Detroit_River	1			Skin	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverSkin	SkinWhite_Sucker	Dry_Ice
+S80	52	11.1558532	52	4.326220769	Detroit_River	1			Skin	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverSkin	SkinRock_Bass	Dry_Ice
+S81	158	28.53683006	158	5.989713879	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S82	139	15.98395689	139	5.524184159	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S83	104	11.5187169	104	5.503164556	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S84	92	9.178385807	92	5.287643449	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S85	90	16.93410618	90	5.38507325	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S86	154	20.10275539	154	5.543404503	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S87	202	31.37910052	202	6.043774617	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S88	86	12.13562008	86	4.779199901	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S89	93	11.69820584	93	5.767435464	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S90	61	7.74870216	61	4.685397137	Detroit_River	1			Skin	Yellow_perch	Detroit_RiverYellow_perch	Detroit_RiverSkin	SkinYellow_perch	Dry_Ice
+S91	54	7.295029347	54	4.483458032	Detroit_River	1			Skin	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverSkin	SkinWhite_Sucker	Dry_Ice
+S93	89	12.25008675	89	5.13557385	Detroit_River	1			Skin	Freshwater_drum	Detroit_RiverFreshwater_drum	Detroit_RiverSkin	SkinFreshwater_drum	Dry_Ice
+S94	29	9.185062507	29	3.612162105	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S95	85	17.59071851	85	4.697105794	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S96	59	12.76048883	59	3.981769655	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S97	171	25.90965467	171	6.426352175	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S98	86	11.48915224	86	5.168126791	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S99	92	13.47868373	92	4.8014669	Detroit_River	1			Skin	Emerald	Detroit_RiverEmerald	Detroit_RiverSkin	SkinEmerald	Dry_Ice
+S100	143	25.24419767	143	4.166765962	Detroit_River	1			Skin	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverSkin	SkinBrook_silverside_fish	Dry_Ice
+S101	95	13.60845774	95	4.994409309	Detroit_River	1			Skin	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverSkin	SkinBrook_silverside_fish	Dry_Ice
+S102	128	20.89446462	128	4.889247596	Detroit_River	1			Skin	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverSkin	SkinBrook_silverside_fish	Dry_Ice
+S103	93	18.86055143	93	4.261970622	Detroit_River	1			Skin	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverSkin	SkinBrook_silverside_fish	Dry_Ice
+S104	132	24.77013872	132	4.651280655	Detroit_River	1			Skin	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverSkin	SkinBrook_silverside_fish	Dry_Ice
+S105	77	7.20427061	77	4.967103508	Detroit_River	1			Skin	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverSkin	SkinBrook_silverside_fish	Dry_Ice
+S106	101	13.24727572	101	5.02110513	Detroit_River	1			Skin	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverSkin	SkinBlacknose_shiner	Dry_Ice
+S107	99	10.50949172	99	5.447495219	Detroit_River	1			Skin	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverSkin	SkinBlacknose_shiner	Dry_Ice
+S108	65	6.224407688	65	4.735271297	Detroit_River	1			Skin	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverSkin	SkinBlacknose_shiner	Dry_Ice
+S109	67	9.0910296	67	4.923947062	Detroit_River	1			Skin	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverSkin	SkinBlacknose_shiner	Dry_Ice
+S110	55	8.900447862	55	4.172397282	Detroit_River	1			Skin	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverSkin	SkinBlacknose_shiner	Dry_Ice
+S111	143	24.68600907	143	5.983928646	Detroit_River	1			Skin	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverSkin	SkinBlacknose_shiner	Dry_Ice
+S112	59	7.122433598	59	4.378111519	Detroit_River	1			Skin	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverSkin	SkinBlacknose_shiner	Dry_Ice
+S119	155	21.13781063	155	4.173692702	Detroit_River	1			Skin	White_Sucker	Detroit_RiverWhite_Sucker	Detroit_RiverSkin	SkinWhite_Sucker	Dry_Ice
+S121	95	11.51454378	95	5.341922417	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S122	106	11.58307126	106	5.427277001	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S123	91	10.22260113	91	4.560619753	Detroit_River	1			Skin	Pumpkinseed	Detroit_RiverPumpkinseed	Detroit_RiverSkin	SkinPumpkinseed	Dry_Ice
+S124	124	11.30221626	124	5.768499327	Detroit_River	1			Skin	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverSkin	SkinRock_Bass	Dry_Ice
+S125	117	13.75947525	117	5.229505271	Detroit_River	1			Skin	Rock_Bass	Detroit_RiverRock_Bass	Detroit_RiverSkin	SkinRock_Bass	Dry_Ice
+S126	87	10.10951873	87	4.960202838	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S127	139	24.81736467	139	5.219868112	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S129	72	11.3022711	72	4.295854378	Detroit_River	1			Skin	Blacknose_shiner	Detroit_RiverBlacknose_shiner	Detroit_RiverSkin	SkinBlacknose_shiner	Dry_Ice
+S130	102	11.81254187	102	4.699325898	Detroit_River	1			Skin	Brook_silverside_fish	Detroit_RiverBrook_silverside_fish	Detroit_RiverSkin	SkinBrook_silverside_fish	Dry_Ice
+S131	105	11.11803738	105	5.045189472	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S132	164	28.27331428	164	4.7238047	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S133	68	10.5770324	68	4.987045696	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S134	116	15.65208277	116	5.438035895	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S135	175	29.66396127	175	4.390813237	Detroit_River	1			Skin	Spotfin_shiner	Detroit_RiverSpotfin_shiner	Detroit_RiverSkin	SkinSpotfin_shiner	Dry_Ice
+S137	187	35.36715152	187	6.027086335	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S138	320	43.62706096	320	6.100093276	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S139	354	50.56247492	354	6.938716549	Lake_Ontario	3			Skin	Rock_Bass	Lake_OntarioRock_Bass	Lake_OntarioSkin	SkinRock_Bass	RNA_Later
+S140	385	54.23745506	385	6.834685153	Lake_Ontario	3			Skin	Rock_Bass	Lake_OntarioRock_Bass	Lake_OntarioSkin	SkinRock_Bass	RNA_Later
+S142	75	15.37410732	75	5.012242012	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S143	123	22.91174405	123	5.624122525	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S144	79	16.98203731	79	5.23439764	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S147	104	20.22935614	104	4.626481567	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S148	90	20.02077493	90	5.091844047	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S149	83	15.87626005	83	5.136761991	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S150	66	18.0349667	66	4.868478947	Lake_Ontario	3			Skin	Rock_Bass	Lake_OntarioRock_Bass	Lake_OntarioSkin	SkinRock_Bass	RNA_Later
+S151	19	4.773817977	19	3.248267547	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S152	184	31.8564705	184	5.910276606	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S153	87	16.55058203	87	4.863217209	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S155	92	17.33006877	92	5.284977785	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S157	179	36.21028579	179	5.967825645	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S159	153	29.14470638	153	5.477306751	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S160	105	19.40417454	105	5.331768221	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S161	244	41.39547552	244	6.622394765	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S162	188	32.948777	188	6.124126956	Lake_Ontario	3			Skin	White_Sucker	Lake_OntarioWhite_Sucker	Lake_OntarioSkin	SkinWhite_Sucker	RNA_Later
+S163	49	9.062987579	49	4.243922319	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S164	26	8.310272451	26	3.591238226	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S165	80	14.83554268	80	5.194564138	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S166	67	14.37169966	67	4.751211515	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S167	177	31.86043985	177	3.573053834	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S168	65	15.46149937	65	4.790251354	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S169	65	14.13909563	65	4.770919756	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S170	79	17.10663207	79	5.085795563	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S171	130	21.90680687	130	5.790930263	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S172	159	25.18436121	159	5.94777488	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S173	128	26.01835758	128	5.45310201	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S174	60	11.8870083	60	5.008010215	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S175	106	20.58607498	106	5.359132155	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S176	46	13.53198378	46	4.52644311	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S177	73	16.74864949	73	5.086430196	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S178	49	12.21775422	49	4.319450527	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S179	84	16.0285205	84	5.371396267	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S180	33	10.73739662	33	3.363176604	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S182	88	17.47335064	88	5.048496619	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S183	34	10.21626985	34	3.7102886	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S184	101	16.5414601	101	4.95153429	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S185	28	9.168230973	28	3.407466605	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S186	57	12.67819957	57	4.686644467	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S187	40	7.360228447	40	4.056791438	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S188	26	8.40986447	26	3.432869653	Lake_Ontario	3			Skin	Gizzard_Shad	Lake_OntarioGizzard_Shad	Lake_OntarioSkin	SkinGizzard_Shad	RNA_Later
+S189	70	14.13373554	70	4.183559519	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S190	198	36.11216098	198	5.940320559	Lake_Ontario	3			Skin	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioSkin	SkinPumpkinseed	RNA_Later
+S191	52	12.41283201	52	3.389544105	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S192	130	23.4018726	130	5.498707534	Lake_Ontario	3			Skin	Gizzard_Shad	Lake_OntarioGizzard_Shad	Lake_OntarioSkin	SkinGizzard_Shad	RNA_Later
+S193	63	12.20347058	63	4.657632407	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S194	85	19.05780521	85	5.084655	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S195	60	12.80447357	60	4.209170466	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S196	121	21.4904392	121	5.192867194	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S197	71	16.04683237	71	4.616252088	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S198	228	35.03793518	228	5.545109567	Lake_Ontario	3			Skin	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioSkin	SkinPumpkinseed	RNA_Later
+S199	61	12.31214271	61	4.919207485	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S200	138	24.39888089	138	4.610947794	Lake_Ontario	3			Skin	Walleye	Lake_OntarioWalleye	Lake_OntarioSkin	SkinWalleye	RNA_Later
+S201	161	26.98439126	161	5.230918148	Lake_Ontario	3			Skin	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioSkin	SkinPumpkinseed	RNA_Later
+S202	95	12.82480428	95	4.020278059	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S203	116	19.00001847	116	5.107064402	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S204	150	22.72201165	150	5.842018558	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S205	137	22.90885101	137	5.683556069	Lake_Ontario	3			Skin	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioSkin	SkinPumpkinseed	RNA_Later
+S206	187	27.13868357	187	6.060489235	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S207	106	21.19813091	106	5.033169268	Lake_Ontario	3			Skin	Walleye	Lake_OntarioWalleye	Lake_OntarioSkin	SkinWalleye	RNA_Later
+S208	73	17.13536674	73	5.007619409	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S209	177	26.83024246	177	6.317641159	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S210	97	16.49146996	97	5.439960623	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S211	114	20.77586543	114	5.315099092	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S212	94	16.0392407	94	5.337504402	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S213	95	14.37205787	95	5.327114329	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S214	64	11.02528626	64	5.159197505	Lake_Ontario	3			Skin	Walleye	Lake_OntarioWalleye	Lake_OntarioSkin	SkinWalleye	RNA_Later
+S215	125	20.5047152	125	5.563481118	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S216	100	13.82718146	100	5.471563777	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S217	38	10.01170697	38	4.266468659	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S218	120	24.35859743	120	5.694761491	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S219	68	12.66430813	68	5.085759758	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S220	132	19.38370807	132	5.5943534	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S221	67	13.71682627	67	4.980983602	Lake_Ontario	3			Skin	Pumpkinseed	Lake_OntarioPumpkinseed	Lake_OntarioSkin	SkinPumpkinseed	RNA_Later
+S222	105	18.24062685	105	5.429952021	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S223	107	17.76778523	107	5.639081009	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S224	108	16.97639664	108	5.54331375	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S225	76	19.60685478	76	4.608230462	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S226	31	10.88369395	31	3.439467702	Lake_Ontario	3			Skin	White_Bass	Lake_OntarioWhite_Bass	Lake_OntarioSkin	SkinWhite_Bass	RNA_Later
+S227	60	15.91812837	60	4.314165129	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S228	262	35.49945112	262	6.950432856	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S229	208	39.0313947	208	5.138884718	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S230	150	30.13657188	150	6.494962009	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S233	42	11.13846413	42	4.251068828	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S234	158	30.06776384	158	5.007057011	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S235	170	28.59007476	170	5.997984029	Lake_Ontario	3			Skin	Walleye	Lake_OntarioWalleye	Lake_OntarioSkin	SkinWalleye	RNA_Later
+S236	58	12.24724476	58	4.920721087	Lake_Ontario	3			Skin	Walleye	Lake_OntarioWalleye	Lake_OntarioSkin	SkinWalleye	RNA_Later
+S237	66	16.61890733	66	4.660681241	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S238	225	32.72546871	225	5.517182265	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S239	90	15.86728193	90	5.483859798	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S240	72	14.21098266	72	5.059186294	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S241	89	18.10458096	89	4.942425779	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S242	162	28.56729127	162	6.094054146	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S243	143	23.50517579	143	5.321737427	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S245	263	42.11190745	263	6.604866632	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S246	82	15.22244293	82	4.899592335	Lake_Ontario	3			Skin	Walleye	Lake_OntarioWalleye	Lake_OntarioSkin	SkinWalleye	RNA_Later
+S247	107	20.23486366	107	5.5470785	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S249	137	28.34428533	137	5.828099469	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S251	68	13.50671509	68	4.811678164	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S252	53	15.16234991	53	4.339823911	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S253	203	35.13730681	203	6.276146789	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S254	153	27.55146356	153	6.167085398	Lake_Ontario	3			Skin	Brown_Trout	Lake_OntarioBrown_Trout	Lake_OntarioSkin	SkinBrown_Trout	RNA_Later
+S255	100	19.32044436	100	5.416486605	Lake_Ontario	3			Skin	Yellow_Perch	Lake_OntarioYellow_Perch	Lake_OntarioSkin	SkinYellow_Perch	RNA_Later
+S256	171	26.59272961	171	5.646272297	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S257	87	16.23570841	87	5.347712338	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S258	160	24.87159755	160	6.120889706	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S259	94	17.07441639	94	5.307328786	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S260	49	11.92773247	49	3.727310378	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S261	110	17.2334189	110	5.374216511	Lake_Ontario	3			Skin	White_Sucker	Lake_OntarioWhite_Sucker	Lake_OntarioSkin	SkinWhite_Sucker	RNA_Later
+S262	144	20.7832586	144	5.89837737	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S263	192	28.34333582	192	6.311012851	Lake_Ontario	3			Skin	White_Perch	Lake_OntarioWhite_Perch	Lake_OntarioSkin	SkinWhite_Perch	RNA_Later
+S264	113	21.60606664	113	5.773117026	Lake_Ontario	3			Skin	Freshwater_Drum	Lake_OntarioFreshwater_Drum	Lake_OntarioSkin	SkinFreshwater_Drum	RNA_Later
+S265	219	37.94934037	219	6.457848423	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S266	247	37.41707891	247	6.342032826	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S267	36	10.97302168	36	3.77062443	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S268	65	17.08508586	65	4.468630983	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S269	245	40.33894073	245	6.539814802	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S270	97	18.13690812	97	5.234356943	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S271	76	15.5393984	76	5.26285988	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S272	193	35.80322604	193	6.403630599	Lake_Ontario	3			Skin	Lake_Trout	Lake_OntarioLake_Trout	Lake_OntarioSkin	SkinLake_Trout	RNA_Later
+S273	104	19.11293433	104	5.056278971	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S274	139	26.92350363	139	5.599975832	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S275	98	20.44870878	98	5.209593499	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S276	62	13.98240937	62	4.800569933	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S278	95	18.96861538	95	5.263875626	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S279	94	19.70573284	94	5.171558611	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S280	110	23.10956525	110	5.450118921	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S281	211	33.57990708	211	5.924735821	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S282	167	29.19280435	167	5.637134638	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S283	127	21.73594933	127	5.516721904	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S284	77	15.79125137	77	5.190507761	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S285	33	10.254437	33	3.820506441	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S286	49	11.40593656	49	4.561364998	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S287	135	26.89565838	135	5.487878185	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S288	103	20.09115675	103	5.264901055	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S289	163	35.85582663	163	6.647253066	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S290	49	13.25657384	49	4.68475677	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S291	167	33.84406633	167	4.980187459	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S292	81	17.82655716	81	4.653799619	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S293	167	33.58327019	167	4.951328657	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S294	94	22.53397949	94	4.219087134	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S295	48	14.01089332	48	3.850614138	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S296	64	15.39080596	64	4.334992376	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S297	132	24.55037131	132	5.711793363	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S298	328	49.74454719	328	6.549792026	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S299	104	21.25716356	104	3.068518785	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S300	41	11.43163352	41	1.605425295	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S301	62	17.06159058	62	1.790665142	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S302	116	26.87389117	116	4.817266513	Lake_Erie	2			Skin	Round_Goby	Lake_ErieRound_Goby	Lake_ErieSkin	SkinRound_Goby	Dry_Ice
+S303	121	26.19246599	121	5.43266705	Lake_Erie	2			Skin	Round_Goby	Lake_ErieRound_Goby	Lake_ErieSkin	SkinRound_Goby	Dry_Ice
+S304	125	25.43639431	125	5.241353248	Lake_Erie	2			Skin	Round_Goby	Lake_ErieRound_Goby	Lake_ErieSkin	SkinRound_Goby	Dry_Ice
+S305	200	39.87401281	200	5.749849341	Lake_Erie	2			Skin	Round_Goby	Lake_ErieRound_Goby	Lake_ErieSkin	SkinRound_Goby	Dry_Ice
+S306	225	41.6670032	225	6.244649146	Lake_Erie	2			Skin	Round_Goby	Lake_ErieRound_Goby	Lake_ErieSkin	SkinRound_Goby	Dry_Ice
+S307	505	69.39947783	505	7.638787811	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S308	365	57.83285342	365	7.192801328	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S309	445	64.97228862	445	7.497077387	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S310	762	101.3515465	762	8.20624706	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S311	263	41.04298336	263	6.742600801	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S312	479	68.43091768	479	7.35112059	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S313	654	80.50342793	654	7.774589441	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S314	684	79.90968735	684	7.857006089	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S315	290	50.91076986	290	6.559333625	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S316	224	41.25932152	224	5.613430332	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S317	186	34.8365777	186	4.393965511	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S318	229	38.23975632	229	5.724860969	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S319	165	32.41718082	165	5.866002399	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S320	79	18.64837695	79	3.905770683	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S321	629	85.63095007	629	8.242724339	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S322	425	67.77228692	425	7.716180993	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S323	407	53.58513749	407	7.341268658	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S324	159	31.54753647	159	5.764623067	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S325	195	39.68889076	195	5.297997109	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S327	211	37.53118654	211	6.235655388	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S328	331	59.26808943	331	7.164815578	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S329	183	33.2390146	183	5.065352778	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S330	296	41.45607887	296	5.888579395	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S331	674	87.00823541	674	8.237947319	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S332	543	77.78639871	543	7.781344482	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S333	238	43.30690472	238	6.602486174	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S334	109	20.8600431	109	5.447540634	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S335	283	51.32352203	283	6.853967264	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S336	212	39.51325709	212	5.478262022	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S337	622	82.7196315	622	8.092412798	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S338	225	37.10647007	225	5.982119438	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S339	569	81.78356296	569	7.93441052	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S340	320	51.99090033	320	7.12063688	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S341	170	32.56652626	170	5.510867899	Lake_Erie	2			Skin	White_Perch	Lake_ErieWhite_Perch	Lake_ErieSkin	SkinWhite_Perch	Dry_Ice
+S343	339	54.4792482	339	6.857877458	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S344	70	13.53862283	70	3.798937148	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S345	750	95.13633319	750	8.224362303	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S346	223	33.28267887	223	5.602309075	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S347	629	81.87871486	629	7.858894752	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S348	783	100.4568087	783	8.406107433	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S349	629	81.56216334	629	7.958661162	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S350	572	76.29250815	572	6.624505599	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S351	208	35.37197758	208	5.293759884	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S352	483	70.26966304	483	7.367304687	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S353	165	35.08509439	165	5.886489527	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S354	347	55.92229926	347	7.092638935	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S355	420	62.92739434	420	7.142031069	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S356	378	64.07990776	378	7.298543865	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S357	182	34.51486627	182	6.365888426	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S358	190	35.31011391	190	6.205651634	Lake_Erie	2			Skin	Round_Goby	Lake_ErieRound_Goby	Lake_ErieSkin	SkinRound_Goby	Dry_Ice
+S359	550	77.56545888	550	7.911674014	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S360	586	85.23950598	586	7.867505174	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S361	632	86.57460464	632	8.127056675	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S362	730	92.21430929	730	8.308294746	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S363	602	80.22028958	602	8.086686107	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S364	220	32.67686041	220	4.95061077	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S365	313	41.15254495	313	6.781310507	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S366	242	30.21392744	242	6.587981898	Lake_Erie	2			Skin	Yellow_Perch	Lake_ErieYellow_Perch	Lake_ErieSkin	SkinYellow_Perch	Dry_Ice
+S367	225	37.50537469	225	6.490866003	Lake_Erie	2			Skin	White_Bass	Lake_ErieWhite_Bass	Lake_ErieSkin	SkinWhite_Bass	Dry_Ice
+S368	153	24.66464713	153	6.049870778	Lake_Erie	2			Skin	Round_Goby	Lake_ErieRound_Goby	Lake_ErieSkin	SkinRound_Goby	Dry_Ice
+S369	129	27.36015615	129	5.867320566	Lake_Erie	2			Skin	Round_Goby	Lake_ErieRound_Goby	Lake_ErieSkin	SkinRound_Goby	Dry_Ice
+S370	168	31.42163386	168	6.462681957	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S371	50	10.39822836	50	3.289856117	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S372	115	25.00537336	115	5.79778603	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S373	170	35.10962196	170	6.453803071	Lake_Erie	2			Skin	Freshwater_Drum	Lake_ErieFreshwater_Drum	Lake_ErieSkin	SkinFreshwater_Drum	Dry_Ice
+S374	239	36.95140351	239	6.120616655	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S375	121	25.0995149	121	5.792377065	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S376	191	34.84738813	191	6.260561397	Lake_Erie	2			Skin	Walleye	Lake_ErieWalleye	Lake_ErieSkin	SkinWalleye	Dry_Ice
+S377	145	26.64730986	145	5.555776217	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S378	50	10.94588264	50	4.518325026	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S379	83	18.12120436	83	4.945134892	Lake_Ontario	3			Skin	Alewife	Lake_OntarioAlewife	Lake_OntarioSkin	SkinAlewife	RNA_Later
+S380	78	13.65196576	78	5.140260338	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S381	123	23.25772069	123	5.465606349	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S382	61	13.17028225	61	4.780091603	Lake_Ontario	3			Skin	Round_Goby	Lake_OntarioRound_Goby	Lake_OntarioSkin	SkinRound_Goby	RNA_Later
+S383	33	9.287371786	33	3.382473374	Lake_Ontario	3			Skin	Walleye	Lake_OntarioWalleye	Lake_OntarioSkin	SkinWalleye	RNA_Later
